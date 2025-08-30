@@ -1,0 +1,35 @@
+CHAPTER 1
+
+1. Learning C++ What lies before you
+
+	#Procedural language
+		Emphasizes the algorithm side of programming.
+		It consist of figuring out the actions a computer should
+		take and then implementing through programming language.
+		Some sort of recepe
+		
+		Computer scientist realize that code became harder to write in 
+		larger projects, so they come out with the dicipline called
+		"Structed programming"
+			·Limit branching
+			·Top down design
+
+		Object oriented programming (OOP)
+			It focus on concepts then prodecitures.
+			It is related with data
+			Polymorphism
+
+		Generic programming
+			Oriented to reuse code simplier
+	# Object-oriented language
+		·Class enhancements C++ adds to C
+	#Generic programming
+		·Supported by C++ Templates 
+
+2. C origin
+	The main goal for C language was to create a common language
+	to comunicate through different hardware through compilers to 
+	machine code
+ 
+3. C programming philosophy
+	Data & Algorithms
